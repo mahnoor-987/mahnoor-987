@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://github.com/mahnoor-987">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=8&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=4&theme=omni"/>
   </a>
 </p>
 

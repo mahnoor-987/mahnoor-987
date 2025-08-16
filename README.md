@@ -1,5 +1,6 @@
-<h1 align="center"> <span style="color:#F77737;">Mahnoor Fatima</span>!</h1>
-<h3 align="center">Frontend Developer | Aspiring MERN Stack Engineer | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F77737&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mahnoor+Fatima;Frontend+Developer;Aspiring+MERN+Stack+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahnoor-987&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor-987" />
@@ -8,64 +9,67 @@
 ---
 
 ### 🚀 About Me
+- 🔭 Currently exploring **Backend Development**
+- 🌱 Learning **MERN Stack**
+- 🎨 Love designing **clean UI + smooth UX**
+- 💡 Passionate about **Open Source & Tech Communities**
+- 🌍 Exploring the intersection of **AI & Web Development**
 
-- 🔭 Currently diving into **Backend Development**
-- 🌱 Learning **Full Stack Development (MERN)**
-- 🎨 Passionate about clean UI, intuitive UX & open source contributions
-- 🌍 Always curious to explore new tech
+---
+
+### 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahnoor-fatima-4bb5b5374/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahnoor-987)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoorfatima987@gmail.com)
 
 ---
 
 ### 🛠️ Languages & Tools
 
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Vue](https://img.shields.io/badge/-Vue-42B883?logo=vue.js&logoColor=fff) 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff) 
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) 
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff) 
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=fff) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=fff) 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=fff) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff) 
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=radical" alt="stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=8&theme=radical" alt="langs" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=radical" alt="streak"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://github.com/mahnoor-987">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=5&theme=omni"/>
-  </a>
-</p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=omni&hide_border=true"/>
-</p>
 
----
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="mailto:mahnoorfatima987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahnoor-fatima-4bb5b5374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mahnoor-987" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
-</p>

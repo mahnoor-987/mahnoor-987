@@ -11,7 +11,6 @@
 
 - 🔭 Currently diving into **Backend Development**
 - 🌱 Learning **Full Stack Development (MERN)**
-- 📬 Reach me at: **mahnoorfatima987@gmail.com**
 - 🎨 Passionate about clean UI, intuitive UX & open source contributions
 - 🌍 Always curious to explore new tech
 
@@ -47,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/mahnoor-987">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=4&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=5&theme=omni"/>
   </a>
 </p>
 

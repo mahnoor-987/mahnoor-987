@@ -64,9 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=8&theme=radical" alt="langs" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=radical" alt="streak"/>
-</p>
+
 
 ---
 

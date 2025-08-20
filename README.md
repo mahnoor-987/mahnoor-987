@@ -58,11 +58,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=radical" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=8&theme=radical" alt="langs" height="180em"/>
+  <a href="https://github.com/mahnoor-987">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=transparent&title_color=8B4513&text_color=D2B48C&icon_color=A0522D&bg_color=000000&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=8&theme=transparent&title_color=8B4513&text_color=D2B48C&icon_color=A0522D&bg_color=000000&hide_border=true"/>
+  </a>
 </p>
+
+
 
 
 

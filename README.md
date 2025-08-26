@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F77737&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mahnoor+Fatima;Frontend+Developer;Aspiring+MERN+Stack+Engineer;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center"> Mahnoor Fatima </h1>
+<h3 align="center">Frontend Developer | Aspiring MERN Stack Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahnoor-987&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor-987" />

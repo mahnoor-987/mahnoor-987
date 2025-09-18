@@ -14,43 +14,56 @@ I enjoy building **clean UIs + smooth UX**, contributing to **Open Source**, and
 - 🌱 Learning **Backend Development**  
 - 🎨 Love designing **beautiful, user-friendly apps**  
 - 🚀 Exploring **AI + Web Development**  
+- ✨ I love turning **ideas into reality** with code  
+- ☕ A good day always starts with **coffee + code**  
+- 🎯 My goal: Become a **Full Stack Engineer** and contribute more to **Open Source**  
 
 ---
 
 ### 🌐 Connect With Me 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahnoor-fatima-4bb5b5374/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahnoor-987) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoorfatima987@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahnoor-fatima-4bb5b5374/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahnoor-987) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoorfatima987@gmail.com)
 
 ---
 
+### 🛠️ Skills  
 
-### 🛠️ Languages & Tools  
+#### 🎨 Frontend Development  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Vue](https://img.shields.io/badge/-Vue-42B883?logo=vue.js&logoColor=fff) 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)  
+#### ⚙️ Backend Development  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) 
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff) 
+#### 🛠️ Tools & Others  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
@@ -63,5 +76,29 @@ I enjoy building **clean UIs + smooth UX**, contributing to **Open Source**, and
   </a>
 </p>
 
+---
 
-💡 *"Talk is cheap. Show me the code."*  
+### 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-987&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon%20Winner-1DA1F2?style=flat-square&logo=hackthebox&logoColor=white)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  

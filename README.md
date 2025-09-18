@@ -8,8 +8,7 @@
 ---
 
 ### 👩‍💻 About Me  
-Hi, I'm **Mahnoor Fatima** — passionate about **Frontend Development** and currently exploring the **MERN Stack**.  
-I enjoy building **clean UIs + smooth UX**, contributing to **Open Source**, and learning how **AI connects with Web Development**.  
+Hi, I'm **Mahnoor Fatima** — passionate about **Frontend Development** and currently exploring the **MERN Stack**.  I enjoy building **clean UIs + smooth UX**, contributing to **Open Source**, and learning how **AI connects with Web Development**.  
 
 - 🌱 Learning **Backend Development**  
 - 🎨 Love designing **beautiful, user-friendly apps**  
@@ -74,11 +73,7 @@ I enjoy building **clean UIs + smooth UX**, contributing to **Open Source**, and
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-987&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-987&layout=compact&langs_count=10&theme=radical"/>
   </a>
-</p>
-
----
-
-### 🔥 GitHub Streak  
+</p>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=radical" alt="GitHub Streak"/>

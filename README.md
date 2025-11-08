@@ -75,19 +75,9 @@ Hi, I'm **Mahnoor Fatima** — passionate about **Frontend Development** and cur
   </a>
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-987&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
-### 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-987&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
 
 ### 🏆 Achievements  
 
